@@ -145,5 +145,5 @@ t1<-table(prediction,datatest$Cover_Type)
 # Create solution file
 
 Prediction = data.frame(Id = test$Id, Cover_Type = prediction)
-write.csv(Prediction, file = "C:/Users/ivan/Google Drive/Machine learning/Kaggle/Forest Cover Type Prediction/output.csv",
+write.csv(Prediction, file = "C:/Users/ivan/Google Drive/Machine learning/Forest Cover Type Prediction/output.csv",
           row.names = F)
