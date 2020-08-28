@@ -18,9 +18,9 @@ library(caret)
 
 # Import data ----
 
-train = read.csv("C:/Users/ivan/Google Drive/Machine learning/Kaggle/Forest Cover Type Prediction/train.csv",
+train = read.csv("C:/Users/ivan/Google Drive/Machine learning/Forest Cover Type Prediction/train.csv",
                  sep = ",", header = T)
-test = read.csv("C:/Users/ivan/Google Drive/Machine learning/Kaggle/Forest Cover Type Prediction/test.csv",
+test = read.csv("C:/Users/ivan/Google Drive/Machine learning/Forest Cover Type Prediction/test.csv",
                  sep = ",", header = T)
 
 
