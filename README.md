@@ -1,2 +1,2 @@
-# Forest_cover
+# Forest cover
 Predict the type of forest cover
